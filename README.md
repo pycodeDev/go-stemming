@@ -15,7 +15,7 @@ Get Your Merchant ID and Secret Key at [Tokopay Dashboard](https://dash.go-tokop
 
 ```golang
  []string{"peng", "pen", "ber", "per", "pe", "di", "ke", "se", "te", "me"}
-	[]string{"lah", "kah", "tah", "pun", "ku", "mu", "nya", "kan", "an"}
+ []string{"lah", "kah", "tah", "pun", "ku", "mu", "nya", "kan", "an"}
 ```
 > Note:
 > New Version Of Stemming
