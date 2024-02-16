@@ -1,6 +1,6 @@
 # go-stemming
 
-This library is for stemming word
+This library is for stemming word, this only for indonesian languange
 
 ## Instalasi
 
