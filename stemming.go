@@ -18,7 +18,7 @@ func MultipleWordStem(param []string) []string {
 	words := []string{}
 
 	// Melakukan stemming pada setiap kata
-	for _, word := range words {
+	for _, word := range param {
 		stemmedWord := lib.StemIndonesianWord(word)
 		words = append(words, stemmedWord)
 	}
